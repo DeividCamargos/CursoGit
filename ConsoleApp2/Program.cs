@@ -8,7 +8,7 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Ola mundo");
-            Console.WriteLine("Cu");
+            Console.WriteLine("Pra q falar palavrao");
 
         }
     }
